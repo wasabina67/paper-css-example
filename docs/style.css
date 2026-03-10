@@ -1,0 +1,9 @@
+@page { size: A4 }
+
+body {
+  background: #f0f0f0;
+}
+
+.sheet {
+  font-family: 'Hiragino Sans', 'Meiryo', sans-serif;
+}
