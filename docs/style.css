@@ -6,4 +6,21 @@ body {
 
 .sheet {
   font-family: 'Hiragino Sans', 'Meiryo', sans-serif;
+  color: #333;
+  line-height: 1.4;
+}
+
+h1 {
+  font-size: 1.6em;
+  color: #2c3e50;
+  border-bottom: 3px solid #2c3e50;
+  padding-bottom: 0.1em;
+}
+
+h2 {
+  font-size: 1.2em;
+  color: #34495e;
+  border-left: 4px solid #3498db;
+  padding-left: 0.6em;
+  margin-top: 1.2em;
 }
